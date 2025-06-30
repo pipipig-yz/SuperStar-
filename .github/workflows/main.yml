@@ -25,4 +25,4 @@ jobs:
           
       
       - name: Run main.py
-        run: python main.py -u 398949298 -p s654321s -l 241001464 #课程id，默认为心理课的
+        run: python main.py -u 398949298 -p Bob200609170 -l 241001464 #课程id，默认为心理课的
